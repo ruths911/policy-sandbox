@@ -1,2 +1,3 @@
 - note 1: keep the titles in sentence case (2026-10-09T23:52:42)
 - note 3: temporary notes are pruned weekly (2026-10-09T23:52:57)
+- note 5: setup runs before the first import (2026-10-09T23:53:12)
