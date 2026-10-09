@@ -9,3 +9,4 @@
 - note 17: line length follows the editor config (2026-10-09T23:54:46)
 - note 19: the sample command stays copy-pasteable (2026-10-09T23:55:06)
 - note 21: keep the titles in sentence case (2026-10-09T23:55:22)
+- note 23: the retry section mirrors the code (2026-10-09T23:55:37)
