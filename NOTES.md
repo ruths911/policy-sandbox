@@ -5,3 +5,4 @@
 - note 9: keep the changelog one entry per release (2026-10-09T23:53:43)
 - note 11: the checklist mirrors the test matrix (2026-10-09T23:54:00)
 - note 13: paths in examples stay relative (2026-10-09T23:54:17)
+- note 15: the retry section mirrors the code (2026-10-09T23:54:31)
