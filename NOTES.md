@@ -11,3 +11,4 @@
 - note 21: keep the titles in sentence case (2026-10-09T23:55:22)
 - note 23: the retry section mirrors the code (2026-10-09T23:55:37)
 - note 25: the retry section mirrors the code (2026-10-09T23:55:51)
+- note 27: keep the changelog one entry per release (2026-10-09T23:56:07)
