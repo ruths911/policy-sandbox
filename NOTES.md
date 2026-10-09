@@ -7,3 +7,4 @@
 - note 13: paths in examples stay relative (2026-10-09T23:54:17)
 - note 15: the retry section mirrors the code (2026-10-09T23:54:31)
 - note 17: line length follows the editor config (2026-10-09T23:54:46)
+- note 19: the sample command stays copy-pasteable (2026-10-09T23:55:06)
