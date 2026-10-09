@@ -1,0 +1,1 @@
+- note 1: keep the titles in sentence case (2026-10-09T23:52:42)
