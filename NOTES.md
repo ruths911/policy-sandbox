@@ -12,3 +12,4 @@
 - note 23: the retry section mirrors the code (2026-10-09T23:55:37)
 - note 25: the retry section mirrors the code (2026-10-09T23:55:51)
 - note 27: keep the changelog one entry per release (2026-10-09T23:56:07)
+- note 29: the checklist mirrors the test matrix (2026-10-09T23:56:23)
